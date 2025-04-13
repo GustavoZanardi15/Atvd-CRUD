@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de RPG
 
-Sistema desenvolvido para a atividade individual de CRUD, com foco na aplicação dos conceitos de Programação Orientada a Objetos (POO). O projeto permite o gerenciamento de **Personagens** e **Itens Mágicos** para um jogo de RPG.
+Sistema desenvolvido para a atividade individual de CRUD. O projeto permite o gerenciamento de **Personagens** e **Itens Mágicos** para um jogo de RPG.
 
 ## Tecnologias utilizadas
 
-- Java 17
+- Java 23
 - Spring Boot
 - Spring Web
 - Spring Data JPA
